@@ -1,0 +1,164 @@
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\ApplicationInsights.config
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\csc.exe
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\vbc.exe
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\VBCSCompiler.exe
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\QualRestaurante.dll.config
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\QualRestaurante.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\QualRestaurante.pdb
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Antlr3.Runtime.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\EntityFramework.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\EntityFramework.SqlServer.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.Web.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.WindowsServer.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.ApplicationInsights.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Google.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Newtonsoft.Json.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Owin.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Helpers.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Mvc.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Optimization.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Razor.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Deployment.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Razor.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\WebGrease.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.Web.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AI.WindowsServer.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.ApplicationInsights.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Helpers.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Mvc.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Optimization.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.Razor.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Deployment.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Razor.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Antlr3.Runtime.pdb
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Newtonsoft.Json.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\EntityFramework.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\EntityFramework.SqlServer.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Google.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\obj\Debug\QualRestaurante.csprojResolveAssemblyReference.cache
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\obj\Debug\QualRestaurante.dll
+c:\users\joão\documents\visual studio 2015\Projects\QualRestaurante\QualRestaurante\obj\Debug\QualRestaurante.pdb
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\ApplicationInsights.config
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\csc.exe
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\vbc.exe
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\VBCSCompiler.exe
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\QualRestaurante.dll.config
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\QualRestaurante.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\QualRestaurante.pdb
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Antlr3.Runtime.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\EntityFramework.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\EntityFramework.SqlServer.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.Web.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Newtonsoft.Json.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Owin.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Helpers.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Mvc.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Optimization.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Razor.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Razor.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\WebGrease.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.Web.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Helpers.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Mvc.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Optimization.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.Razor.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\System.Web.WebPages.Razor.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Antlr3.Runtime.pdb
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Newtonsoft.Json.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\EntityFramework.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\EntityFramework.SqlServer.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\obj\Debug\QualRestaurante.dll
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\obj\Debug\QualRestaurante.pdb
+C:\Users\jberte\Desktop\QualRestaurante\QualRestaurante\obj\Debug\QualRestaurante.csprojResolveAssemblyReference.cache
